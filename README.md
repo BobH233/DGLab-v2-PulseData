@@ -8,3 +8,7 @@
 ![esp32-devkit](./doc/esp32.jpg)
 
 利用ESP32捕获的全部原始数据在`OriginalData`文件夹中
+
+生成json文件的代码为: `generate_json.py`
+
+生成的波形文件在 `pulse_data.json`
